@@ -1,9 +1,9 @@
 # QREFINE-PPO
 This is implementation of QREFINE model described in "Generative Question Refinement with Deep Reinforcement Learning in Retrieval-based QA System" (https://arxiv.org/abs/1908.05604)
 ## Datasets:
-* WikiAnswers:
+* Yahoo dataset:
 ```
-../data/Wiki/wiki_ids_Q10
+https://ciir.cs.umass.edu/downloads/nfL6/
 ```
 * Customer Service Userlog (CSU):
 ```
